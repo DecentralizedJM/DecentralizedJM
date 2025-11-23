@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I’m JM  
 
-<!--
-**DecentralizedJM/DecentralizedJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Product Manager** building at the intersection of **AI Agents, automation workflows, and algorithmic trading systems**.  
 
-Here are some ideas to get you started:
+I build things end-to-end — from research and product strategy to API design, execution, and GTM. My path cuts across **Business Development → Customer Support → Relationship Management → Product Marketing → Product Management**, giving me a rare full-stack understanding of both users and systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I’m Building Right Now
+- **AI Agents** — multi-agent systems, tool-using agents, and real-world automation flows  
+- **Workflows** — n8n pipelines, agent orchestration layers, and operational automations  
+- **Futures Algorithmic Trading** — API-driven systems, execution logic, and strategy design  
+
+---
+
+## ⚙️ Stack & Tools  
+**AI / LLM**  
+- OpenAI  
+- Gemini  
+
+**Automation & Workflows**  
+- n8n  
+- Typetext  
+- Telegram Bots  
+
+**Code & Infra**  
+- Python  
+- REST APIs  
+- Agent frameworks  
+
+---
+
+## 🎯 What I Focus On  
+- Building agentic systems that actually execute, not just “chat”  
+- Connecting APIs, tools, and workflows into one cohesive operational engine  
+- Designing simple, elegant product experiences for complex systems  
+- Bridging business sense + technical execution in one stack  
+
+---
+
+## 📫 Reach Out  
+Always open to collaborating on **agentic AI**, **workflow automation**, or **trading automation**.  
+Let’s build sharp, scalable, high-leverage systems.
