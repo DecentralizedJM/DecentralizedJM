@@ -16,7 +16,9 @@ I build things end-to-end — from research and product strategy to API design, 
 ## ⚙️ Stack & Tools  
 **AI / LLM**  
 - OpenAI  
-- Gemini  
+- Gemini
+- Claude
+- DeepSeek
 
 **Automation & Workflows**  
 - n8n  
