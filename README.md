@@ -6,7 +6,7 @@ I build things end-to-end — from research and product strategy to API design, 
 
 ---
 
-## 🔥 What I’m Building Right Now
+## What I’m Building Right Now
 - **AI Agents** — multi-agent systems, tool-using agents, and real-world automation flows  
 - **Workflows** — n8n pipelines, agent orchestration layers, and operational automations  
 - **Futures Algorithmic Trading** — API-driven systems, execution logic, and strategy design  
@@ -32,7 +32,7 @@ I build things end-to-end — from research and product strategy to API design, 
 
 ---
 
-## 🎯 What I Focus On  
+## What I Focus On  
 - Building agentic systems that actually execute, not just “chat”  
 - Connecting APIs, tools, and workflows into one cohesive operational engine  
 - Designing simple, elegant product experiences for complex systems  
