@@ -1,94 +1,62 @@
-# 👋 Hey, I'm JM!
+# Jithin Mohandas
 
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=DecentralizedJM)
-
----
-
-## 🎯 About Me
-
-**Full-Stack Product Manager** building at the intersection of **AI agents**, **automation workflows**, and **algorithmic trading systems**.
-
-I build things **end-to-end** — from research and product strategy to API design, execution, and GTM.
-
-My journey spans **Business Development → Customer Support → Relationship Management → Product Marketing → Product Management**, giving me a rare full-stack understanding of both **users and systems**.
-
-<img src="https://raw.githubusercontent.com/DecentralizedJM/DecentralizedJM/main/ezgif-72151066b6b6fb00.gif" width="400" alt="Profile GIF" />
+Full-Stack Product Manager | AI Systems | Automation | Algorithmic Trading
 
 ---
 
-## 🚀 What I'm Building Right Now
+## About
 
-| Project | Description |
-|---------|-------------|
-| **🤖 AI Agents** | Multi-agent systems, tool-using agents, real-world automation flows |
-| **⚙️ Workflows** | n8n pipelines, agent orchestration layers, operational automations |
-| **📈 Algorithmic Trading** | API-driven systems, execution logic, strategy design |
+Building intelligent systems at the intersection of AI agents, workflow automation, and algorithmic trading. End-to-end focus from research and product strategy to API design, execution, and deployment.
+
+Background spanning Business Development, Customer Success, Product Marketing, and Product Management—providing comprehensive understanding of both user needs and technical architecture.
+
+<img src="https://raw.githubusercontent.com/DecentralizedJM/DecentralizedJM/main/ezgif-72151066b6b6fb00.gif" width="100%" style="max-width: 600px" alt="Profile visualization" />
 
 ---
 
-## 💻 Stack & Tools
+## Technical Stack
 
-### 🧠 AI / LLM
+### Programming Languages
+- Python
+- JavaScript/Node.js
+- SQL
+
+### AI & LLM Platforms
 - OpenAI
-- Gemini
-- Claude
+- Google Gemini
+- Anthropic Claude
 - DeepSeek
 
-### 🔄 Automation & Workflows
-- n8n
-- TypeText
-- Telegram Bots
-
-### 💾 Code & Infrastructure
-- Python
+### APIs & Integrations
 - REST APIs
+- Binance API
+- Telegram Bot API
+- n8n Workflows
+
+### Infrastructure & Tools
+- Docker
+- Git/GitHub
+- AWS/Google Cloud
 - Agent Frameworks
-- Docker & Cloud Deployment
+- Python Async Programming
+
+### Specializations
+- Real-time data processing
+- Multi-agent systems
+- API-driven automation
+- Algorithmic trading systems
+- Workflow orchestration
 
 ---
 
-## 🎓 What I Focus On
+## Core Focus
 
-✅ Building **agentic systems** that actually execute, not just "chat"
-
-✅ Connecting **APIs, tools, and workflows** into cohesive operational engines
-
-✅ Designing **simple, elegant product experiences** for complex systems
-
-✅ Bridging **business sense and technical execution** in one stack
+Building systems that execute with precision, not theoretical frameworks. Integrating APIs, tools, and workflows into coherent operational architectures. Designing clean, scalable solutions for complex problems. Bridging product vision with technical implementation.
 
 ---
 
-## 📊 Featured Projects
+## GitHub Stats
 
-### 📈 **Telegram Volume Alert Bot**
-Real-time cryptocurrency volume monitoring with instant Telegram alerts.
-- **Stack:** Python, Binance API, Telegram Bot API
-- **Status:** ✅ v1.0.0 Released
-- 🔗 [View Project](https://github.com/DecentralizedJM/telegram-volume-alert-bot)
-
-### 💰 **AI-Powered Trading Strategy**
-Algorithmic trading system using machine learning and API integration.
-- **Stack:** Python, APIs, ML Models
-- **Status:** 🔄 Active Development
-- 🔗 [View Project](https://github.com/DecentralizedJM/AI-Powered-API-Trading-Strategy-)
+![Profile Views](https://komarev.com/ghpvc/?username=DecentralizedJM)
 
 ---
-
-## 📫 Let's Connect
-
-Always open to collaborating on:
-- 🤖 Agentic AI systems
-- ⚙️ Workflow automation
-- 📊 Trading automation
-- 🔧 Product-driven technical solutions
-
-**Let's build sharp, scalable, high-leverage systems together.**
-
----
-
-<div align="center">
-
-### 🌟 If you find my work valuable, consider giving it a star!
-
-</div>
