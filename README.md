@@ -1,4 +1,4 @@
-# Hi I'm JM
+# Hi I'm JM 👋
 
 Full-Stack Product Manager | Build → Sell → Scale
 
@@ -14,7 +14,7 @@ Full-Stack Product Manager | Build → Sell → Scale
 
 ## Technical Stack
 
-### Programming LanguagesFull-Stack Product Manager driving strategy, growth, and technical execution end-to-end.
+### Programming Languages
 - Python
 - JavaScript/Node.js
 - SQL
