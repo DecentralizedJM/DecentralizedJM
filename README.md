@@ -6,13 +6,11 @@ Full-Stack Product Manager | AI Systems | Automation | Algorithmic Trading
 
 ## About
 
+<img src="https://raw.githubusercontent.com/DecentralizedJM/DecentralizedJM/main/assets/profile.gif" width="300" style="float: right; margin-left: 20px; margin-bottom: 20px;" alt="Profile visualization" />
+
 Building intelligent systems at the intersection of AI agents, workflow automation, and algorithmic trading. End-to-end focus from research and product strategy to API design, execution, and deployment.
 
 Background spanning Business Development, Customer Success, Product Marketing, and Product Management—providing comprehensive understanding of both user needs and technical architecture.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DecentralizedJM/DecentralizedJM/main/assets/profile.gif" width="300" alt="Profile visualization" />
-</div>
 
 ---
 
