@@ -10,7 +10,7 @@ Building intelligent systems at the intersection of AI agents, workflow automati
 
 Background spanning Business Development, Customer Success, Product Marketing, and Product Management—providing comprehensive understanding of both user needs and technical architecture.
 
-<img src="https://raw.githubusercontent.com/DecentralizedJM/DecentralizedJM/main/ezgif-72151066b6b6fb00.gif" width="100%" style="max-width: 600px" alt="Profile visualization" />
+<img src="https://raw.githubusercontent.com/DecentralizedJM/DecentralizedJM/main/assets/profile.gif" width="100%" style="max-width: 600px" alt="Profile visualization" />
 
 ---
 
