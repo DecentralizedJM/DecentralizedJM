@@ -1,6 +1,8 @@
-# Hi I'm JM 👋
+# Hi, I'm JM 👋
 
 Full-Stack Product Manager | Build → Sell → Scale
+
+![Profile Views](https://komarev.com/ghpvc/?username=DecentralizedJM)
 
 ---
 
@@ -53,8 +55,7 @@ Building systems that execute with precision, not theoretical frameworks. Integr
 
 ---
 
-## GitHub Stats
+## Reach Out
 
-![Profile Views](https://komarev.com/ghpvc/?username=DecentralizedJM)
-
+If you're building in AI, automation, APIs, or product-led growth, I’m always open to connect.
 ---
