@@ -2,7 +2,7 @@
 
 **Full-Stack Product Manager** building at the intersection of **AI Agents, automation workflows, and algorithmic trading systems**.  
 
-I build things end-to-end — from research and product strategy to API design, execution, and GTM. My path cuts across **Business Development → Customer Support → Relationship Management → Product Marketing → Product Management**, giving me a rare full-stack understanding of both users and systems.
+**I build things end-to-end — from research and product strategy to API design, execution, and GTM. My path cuts across **Business Development → Customer Support → Relationship Management → Product Marketing → Product Management**, giving me a rare full-stack understanding of both users and systems**
 ---
 
 ## What I’m Building Right Now
