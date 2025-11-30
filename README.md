@@ -1,6 +1,6 @@
-# Jithin Mohandas
+# Hi I'm JM
 
-Full-Stack Product Manager | AI Systems | Automation | Algorithmic Trading
+Full-Stack Product Manager | Build → Sell → Scale
 
 ---
 
@@ -14,7 +14,7 @@ Full-Stack Product Manager | AI Systems | Automation | Algorithmic Trading
 
 ## Technical Stack
 
-### Programming Languages
+### Programming LanguagesFull-Stack Product Manager driving strategy, growth, and technical execution end-to-end.
 - Python
 - JavaScript/Node.js
 - SQL
