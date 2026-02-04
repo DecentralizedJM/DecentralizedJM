@@ -1,6 +1,6 @@
 # Hi, I'm JM 👋
 
-Full-Stack Product Manager | Build → Sell → Scale
+Full-Stack Product Builder | Build → Sell → Scale
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DecentralizedJM)
 
