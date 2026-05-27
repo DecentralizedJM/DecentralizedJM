@@ -21,4 +21,4 @@ Replace generic / unsubstantiated bullets with code-backed claims from `01-skill
 
 ## Selected work (placeholder until hero list attached)
 
-Link: `mudrex-api-trading-python-sdk`, `mudrex-proxy-server-websocket`, `mudrex-mcp-prod-landing-page`, `Mudrex-API-Copilot`, `mudrex-trade-ideas-html-cards`, **RexAlgo** (URL TBD — see `03-rexalgo.md`)
+Link: [**RexAlgo**](https://github.com/DecentralizedJM/RexAlgo), `mudrex-api-trading-python-sdk`, `mudrex-proxy-server-websocket`, `mudrex-mcp-prod-landing-page`, `Mudrex-API-Copilot`, `mudrex-trade-ideas-html-cards`

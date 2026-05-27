@@ -25,7 +25,7 @@
 | Algo trading | `XAUT-EMA-Pullback-Strategy`, `funding-fee-farming-strategy`, `free-weight-strategy-mudrex-api`, `BTC-momentum-catcher-strategy` |
 | Advisory / trade ideas | `mudrex-trade-ideas-html-cards` |
 | API copilot (dev UX) | `Mudrex-API-Copilot` |
-| **RexAlgo (product)** | **Not scanned** — see `03-rexalgo.md`; attach repo/docs. Adjacent: `mudrex-trade-ideas-html-cards`, strategy bots on Mudrex API |
+| **RexAlgo (product)** | [`RexAlgo`](https://github.com/DecentralizedJM/RexAlgo) — full-stack marketplace + copy + TIA; see `03-rexalgo.md` |
 
 ---
 
@@ -68,6 +68,13 @@
 | **Algo: execution retries** | `XAUT-EMA-Pullback-Strategy/exchange/mudrex_client.py:L15`, `L99` | Live trading REST resilience |
 | **Algo: ML gate on signals** | `XAUT-EMA-Pullback-Strategy/strategy/institutional_ml.py:L1-L31` — `TradeSignal`, probability | Advisory/quant rigor (frame carefully for PM) |
 | **Advisory: trade-idea UI contract** | `mudrex-trade-ideas-html-cards/trade-idea-widget-light.html:L1-L40` — embeddable widget, `TradeIdeaWidget.render()` pattern (see README) | In-app advisory UX without backend in repo |
+| **Full-stack product (algo + copy + advisory)** | `RexAlgo/README.md:L7-L53`; `RexAlgo/docs/CONTEXT.md:L9-L66` | **HERO PM story** — shipped consumer product on Mudrex API |
+| **Mudrex rate limits (product-side)** | `RexAlgo/backend/src/lib/mudrexRateLimit.ts:L1-L58` | API PM depth beyond SDK defaults |
+| **Webhook HMAC + replay control** | `RexAlgo/backend/src/lib/copyWebhookHmac.ts:L1-L50` | Trust/safety for copy-trading signals |
+| **TIA / trade-ideas integration** | `RexAlgo/backend/src/lib/tia/client.ts:L1-L40`; `CONTEXT.md` L41-L46 | Advisory path inside RexAlgo |
+| **CI + backend tests** | `RexAlgo/.github/workflows/ci.yml`; `docs/CONTEXT.md` L5 | Closes CI gap for this product (strategy B) |
+| **Production ops / load test** | `RexAlgo/docs/LOAD-TEST.md`, `docs/PROD.md` | PM + SRE credibility |
+| **Engineering decisions (audit)** | `RexAlgo/docs/audit/FINDINGS.md` | ADR raw material |
 | **Async SDK usage pattern (wrapper)** | `mudrex-api-trading-python-sdk/examples/async_trading.py:L5-L9`, `L12-L27`, `L85` — `asyncio.gather` over thread pool; **note:** base client is sync | Qualify in portfolio: “async via executor,” not native async SDK |
 | **Docker packaging** | `mudrex-proxy-server-websocket/Dockerfile`; `Mudrex-API-Copilot/Dockerfile:L1` | Deployability for two flagship services |
 | **Unit tests (partial)** | `mudrex-api-trading-python-sdk/tests/test_exceptions.py:L1-L30`; `tests/test_models.py`; `mudrex-proxy-server-websocket/tests/test_transformer.py:L4-L24` | Some CI-quality signal; not uniform across repos |

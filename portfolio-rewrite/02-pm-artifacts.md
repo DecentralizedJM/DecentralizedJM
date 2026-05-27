@@ -147,19 +147,23 @@
 | `XAUT-EMA-Pullback-Strategy` | — | — | ✓ README filters | — | — | — | **Algo spec in README** |
 | `free-weight-strategy-mudrex-api` | — | — | ✓ mermaid | — | — | — | **Algo** |
 | `funding-fee-farming-strategy` | — | — | partial | — | — | — | **Thesis drift risk** |
-| **RexAlgo** (product) | — | — | — | — | — | — | **Not in public scan** — see `03-rexalgo.md` |
+| **RexAlgo** | ~audit | **Partial** | ✓✓ | `TODO[JM]` | ✓ | ✓✓ | **Best PM+eng doc set** |
 
 ---
 
-## RexAlgo (product — not in Phase 1 inventory)
+## RexAlgo ([`DecentralizedJM/RexAlgo`](https://github.com/DecentralizedJM/RexAlgo))
+
+**Scanned 2026-05-27.** Likely private; full profile in `03-rexalgo.md`.
 
 | Artifact | Status | Notes |
 |----------|--------|-------|
-| PRD / ADR / metrics | **Unknown** | No `DecentralizedJM/*` repo named RexAlgo; likely private, another org, or app codebase elsewhere |
-| Related public material | **Partial** | Trade-idea widgets (`mudrex-trade-ideas-html-cards` + Project TIA API); algo bots as **API consumers** |
-| Must-create | **P0** | Same as platform: PRD excerpt, ADR (e.g. advisory vs auto-trade), outcomes — `artifacts/outcomes-rexalgo.md` stub ready |
-
-**When you attach RexAlgo:** Re-run skill citations (Phase 2 supplement) and promote RexAlgo to hero/case-study if code depth warrants it.
+| PRD | No formal | README executive summary + feature table ≈ product brief |
+| ADR | **Partial** | `docs/audit/FINDINGS.md` — open decisions (volume ledger, rollups) |
+| Design / architecture | **Strong** | `docs/CONTEXT.md`, `repo/architecture.mmd` |
+| Roadmap / changelog / security | **Yes** | `README.md#roadmap`, `CHANGELOG.md`, `SECURITY.md` |
+| CI / tests | **Yes** | `.github/workflows/ci.yml`; 83 backend tests (per CONTEXT) |
+| Metrics | **Internal** | Fill `artifacts/outcomes-rexalgo.md` |
+| Must-create | P1 | Outcomes numbers; promote audit items to named ADRs |
 
 ---
 
@@ -187,7 +191,7 @@ Aligned with **B** (real commits) + your PM domains:
 | Priority | Artifact | Target product | Action |
 |----------|----------|----------------|--------|
 | P0 | **Outcomes sheet** | MCP + WS + SDK + **RexAlgo** | Fill `artifacts/outcomes-*.md` (Phase 7) with real or “not measured” |
-| P0 | **RexAlgo source** | RexAlgo | Provide repo/docs per `03-rexalgo.md` |
+| P1 | **RexAlgo ADRs** | RexAlgo | Promote `docs/audit/FINDINGS.md` decisions to named ADR files |
 | P0 | **ADR-001** | WS proxy | Why single upstream + Redis, not per-client Bybit |
 | P0 | **ADR-002** | MCP | Why MCP tools vs docs-only copilot |
 | P1 | **PRD excerpt** | API Copilot | User: Futures API integrator; jobs-to-be-done |
@@ -207,7 +211,8 @@ These exist today and are **honest** if framed correctly:
 3. **Support bot behavior spec** — `SMART_RESPONSE_BEHAVIOR.md` + code guard in `src/rag/pipeline.py`.  
 4. **Cost-awareness** — `REDIS_CACHING_PLAN.md` (**label as estimate**).  
 5. **Advisory embed contract** — `mudrex-trade-ideas-html-cards/README.md` (TIA JSON → widget states).  
-6. **Platform index** — `mudrex-api-trading-SDK-registry/README.md`.
+6. **Platform index** — `mudrex-api-trading-SDK-registry/README.md`.  
+7. **RexAlgo product** — README + `docs/CONTEXT.md` + audit decision log (no fake MAU).
 
 ---
 

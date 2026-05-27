@@ -146,10 +146,12 @@ Shallow clones and `analysis.json` live in `portfolio-rewrite/.repo-scan/` for P
 
 ---
 
-## Appendix — RexAlgo (not in GitHub inventory)
+## Appendix — RexAlgo (repo #56 — private or non-listed on public API)
 
-| Product | In `DecentralizedJM` public repos? | Notes |
-|---------|-----------------------------------|-------|
-| **RexAlgo** | **No** (as of 2026-05-27 scan) | PM-owned algo/advisory product; document in `03-rexalgo.md`. Attach repo or docs to extend inventory + skill map. |
+| Repo | Public/Private | Last commit | Approx LOC | Primary language(s) | What it actually does | Evidence | README (1–5) | Classification |
+|------|----------------|-------------|------------|---------------------|----------------------|----------|--------------|----------------|
+| [RexAlgo](https://github.com/DecentralizedJM/RexAlgo) | **Private** (clone OK; absent from unauthenticated API list) | 2026-05-27 | ~large monorepo (frontend+backend+docs; ~6.7MB excl. git) | TypeScript (React + Next.js), SQL migrations | **Algo marketplace + copy trading** on Mudrex Futures: masters publish strategies, HMAC webhooks mirror trades to subscribers; TIA advisory auto-trade; TV webhooks; Postgres sessions, encrypted Mudrex keys, Redis rate limits (`docs/CONTEXT.md`, `mudrexRateLimit.ts`) | Not in public star count; **CI + 83 backend tests** per `docs/CONTEXT.md` | **5** — executive summary, mermaid index, PROD/SECURITY/LOAD-TEST | **HERO** |
 
-**Related public repos (adjacent):** `mudrex-trade-ideas-html-cards`, strategy bots using Mudrex API — see `03-rexalgo.md`.
+Full profile: [`03-rexalgo.md`](03-rexalgo.md).
+
+**Platform siblings:** `mudrex-api-trading-python-sdk`, `mudrex-proxy-server-websocket`, `mudrex-trade-ideas-html-cards` (Plotline embeds; RexAlgo consumes **TIA API** in-app).
