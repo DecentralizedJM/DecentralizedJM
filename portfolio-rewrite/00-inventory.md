@@ -143,3 +143,13 @@
 ## Scan artifacts (local only, not for publication)
 
 Shallow clones and `analysis.json` live in `portfolio-rewrite/.repo-scan/` for Phase 2 file/line citations. Do not commit that folder to the live profile repo without review.
+
+---
+
+## Appendix — RexAlgo (not in GitHub inventory)
+
+| Product | In `DecentralizedJM` public repos? | Notes |
+|---------|-----------------------------------|-------|
+| **RexAlgo** | **No** (as of 2026-05-27 scan) | PM-owned algo/advisory product; document in `03-rexalgo.md`. Attach repo or docs to extend inventory + skill map. |
+
+**Related public repos (adjacent):** `mudrex-trade-ideas-html-cards`, strategy bots using Mudrex API — see `03-rexalgo.md`.

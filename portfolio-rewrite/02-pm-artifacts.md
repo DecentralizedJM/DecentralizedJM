@@ -2,7 +2,7 @@
 
 **Generated:** 2026-05-27  
 **Gap-close strategy (Phase 2):** **B** — add small, real commits/repos to substantiate claims (see `gap-fill/README.md`).  
-**PM focus:** API (REST), WebSocket, MCP, algo trading, advisory — not hero-repo selection (you’ll attach those).  
+**PM focus:** API (REST), WebSocket, MCP, algo trading, advisory, **RexAlgo** — not hero-repo selection (you’ll attach those).  
 **Method:** Searched cloned repos under `portfolio-rewrite/.repo-scan/` for PRD-shaped docs, decision logs, metrics, user-facing copy, roadmaps, post-mortems.
 
 ---
@@ -147,6 +147,19 @@
 | `XAUT-EMA-Pullback-Strategy` | — | — | ✓ README filters | — | — | — | **Algo spec in README** |
 | `free-weight-strategy-mudrex-api` | — | — | ✓ mermaid | — | — | — | **Algo** |
 | `funding-fee-farming-strategy` | — | — | partial | — | — | — | **Thesis drift risk** |
+| **RexAlgo** (product) | — | — | — | — | — | — | **Not in public scan** — see `03-rexalgo.md` |
+
+---
+
+## RexAlgo (product — not in Phase 1 inventory)
+
+| Artifact | Status | Notes |
+|----------|--------|-------|
+| PRD / ADR / metrics | **Unknown** | No `DecentralizedJM/*` repo named RexAlgo; likely private, another org, or app codebase elsewhere |
+| Related public material | **Partial** | Trade-idea widgets (`mudrex-trade-ideas-html-cards` + Project TIA API); algo bots as **API consumers** |
+| Must-create | **P0** | Same as platform: PRD excerpt, ADR (e.g. advisory vs auto-trade), outcomes — `artifacts/outcomes-rexalgo.md` stub ready |
+
+**When you attach RexAlgo:** Re-run skill citations (Phase 2 supplement) and promote RexAlgo to hero/case-study if code depth warrants it.
 
 ---
 
@@ -173,7 +186,8 @@ Aligned with **B** (real commits) + your PM domains:
 
 | Priority | Artifact | Target product | Action |
 |----------|----------|----------------|--------|
-| P0 | **Outcomes sheet** | MCP + WS + SDK | Fill `artifacts/outcomes-*.md` (Phase 7) with real or “not measured” |
+| P0 | **Outcomes sheet** | MCP + WS + SDK + **RexAlgo** | Fill `artifacts/outcomes-*.md` (Phase 7) with real or “not measured” |
+| P0 | **RexAlgo source** | RexAlgo | Provide repo/docs per `03-rexalgo.md` |
 | P0 | **ADR-001** | WS proxy | Why single upstream + Redis, not per-client Bybit |
 | P0 | **ADR-002** | MCP | Why MCP tools vs docs-only copilot |
 | P1 | **PRD excerpt** | API Copilot | User: Futures API integrator; jobs-to-be-done |
@@ -199,7 +213,7 @@ These exist today and are **honest** if framed correctly:
 
 ## Phase 3 question (one)
 
-For your **API / WebSocket / MCP / algo / advisory** work at Mudrex, which products can you supply **real PM artifacts** from private notes or memory (even rough)?
+For your **API / WebSocket / MCP / algo / advisory / RexAlgo** work at Mudrex, which products can you supply **real PM artifacts** from private notes or memory (even rough)?
 
 Reply with any combination, e.g.:
 
@@ -207,6 +221,7 @@ Reply with any combination, e.g.:
 - `WS proxy` — ADR + connection counts  
 - `API Copilot` — support interviews + deflection rate  
 - `Trade ideas / advisory` — stakeholder brief + adoption  
-- `Algo` — strategy mandate + risk limits (not PnL unless you’re willing)
+- `Algo` — strategy mandate + risk limits (not PnL unless you’re willing)  
+- **`RexAlgo`** — product PRD, roadmap, user research, launch metrics, link to repo
 
 Anything you list, Phase 7 will format into `artifacts/prd-*.md`, `decision-log-*.md`, `outcomes-*.md` with `TODO[JM]:` blocks only where you must fill facts.

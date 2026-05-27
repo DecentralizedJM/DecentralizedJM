@@ -2,7 +2,7 @@
 
 **Generated:** 2026-05-27  
 **Gap-close strategy:** **B** — add small real commits/repos (see `gap-fill/README.md`).  
-**Scope:** Your stated PM domains — **REST API**, **WebSocket**, **MCP**, **algo trading**, **advisory trading** — not hero-repo selection (you’ll attach those separately).  
+**Scope:** Your stated PM domains — **REST API**, **WebSocket**, **MCP**, **algo trading**, **advisory trading**, **RexAlgo** — not hero-repo selection (you’ll attach those separately).  
 **Source of truth:** Shallow clones under `portfolio-rewrite/.repo-scan/`, cross-checked against profile README at `DecentralizedJM/README.md`.  
 **Citation format:** `repo/path.py:Lstart-Lend` (line numbers from scanned clone).
 
@@ -25,6 +25,7 @@
 | Algo trading | `XAUT-EMA-Pullback-Strategy`, `funding-fee-farming-strategy`, `free-weight-strategy-mudrex-api`, `BTC-momentum-catcher-strategy` |
 | Advisory / trade ideas | `mudrex-trade-ideas-html-cards` |
 | API copilot (dev UX) | `Mudrex-API-Copilot` |
+| **RexAlgo (product)** | **Not scanned** — see `03-rexalgo.md`; attach repo/docs. Adjacent: `mudrex-trade-ideas-html-cards`, strategy bots on Mudrex API |
 
 ---
 

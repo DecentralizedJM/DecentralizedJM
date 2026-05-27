@@ -16,9 +16,9 @@ Replace generic / unsubstantiated bullets with code-backed claims from `01-skill
 
 ## Add (PM-first, 3 lines max under name)
 
-- Product Manager — Mudrex · Futures **API**, **WebSocket** market data, **MCP**, algo & advisory trading  
+- Product Manager — Mudrex · Futures **API**, **WebSocket** market data, **MCP**, **RexAlgo** (algo & advisory), platform integrations  
 - Builder-PM: specs and shipped systems for integrators and traders—not a generic full-stack résumé  
 
 ## Selected work (placeholder until hero list attached)
 
-Link: `mudrex-api-trading-python-sdk`, `mudrex-proxy-server-websocket`, `mudrex-mcp-prod-landing-page`, `Mudrex-API-Copilot`, `mudrex-trade-ideas-html-cards`
+Link: `mudrex-api-trading-python-sdk`, `mudrex-proxy-server-websocket`, `mudrex-mcp-prod-landing-page`, `Mudrex-API-Copilot`, `mudrex-trade-ideas-html-cards`, **RexAlgo** (URL TBD — see `03-rexalgo.md`)
