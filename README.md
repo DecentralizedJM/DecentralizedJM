@@ -1,90 +1,121 @@
-# Jithin Mohandas (JM)
+# Hey there! I'm JM 👋
 
-**Product Manager at [Mudrex](https://mudrex.com)** · I ship **developer platforms** (REST API, WebSocket, MCP) and **trading products** (algo marketplace, copy trading, advisory) on top of them.
+### Product Manager @ Mudrex · Builder-PM · API · Algo · MCP
 
-Bengaluru · Builder-PM — specs, trade-offs, and working systems, not slide decks about agents.
-
----
-
-## Currently (Q2 2026)
-
-Shipping **Mudrex Futures** as a platform other teams can build on: SDKs, real-time streams, MCP for AI clients, and **RexAlgo** for masters and subscribers. Tightening ledger correctness, webhook security, and production observability on RexAlgo; extending MCP and API copilot for integrators.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Shipping+RexAlgo+%F0%9F%9A%80;Futures+API+%2B+WebSocket+%2B+MCP;Algo+marketplace+%26+copy+trading;Turning+APIs+into+products+people+use)](https://git.io/typing-svg)
 
 ---
 
-## Selected work
+## 🎯 About Me
 
-| | Project | Why it matters |
-|---|---------|----------------|
-| **1** | [**RexAlgo**](https://github.com/DecentralizedJM/RexAlgo) | End-to-end **consumer product**: algo marketplace + copy trading + trade-idea (TIA) flows on Mudrex Futures — auth, encrypted keys, HMAC webhooks, subscriber mirroring, CI + load tests. This is the “I own a product” proof. |
-| **2** | [**mudrex-api-trading-python-sdk**](https://github.com/DecentralizedJM/mudrex-api-trading-python-sdk) | **Platform wedge** for integrators: rate limits, error taxonomy, modular REST surface, **MCP server** so Claude/Cursor can trade with guardrails. |
-| **3** | [**mudrex-proxy-server-websocket**](https://github.com/DecentralizedJM/mudrex-proxy-server-websocket) | **Realtime infra**: one Bybit upstream → Mudrex-branded streams → Redis fan-out — subscription ref-counting, per-client limits, graceful shutdown. |
-| **4** | [**mudrex-mcp-prod-landing-page**](https://github.com/DecentralizedJM/mudrex-mcp-prod-landing-page) | **GTM** for MCP: API keys, tool catalog, Claude config — turns protocol work into something teams can adopt in minutes. |
-| **5** | [**Mudrex-API-Copilot**](https://github.com/DecentralizedJM/Mudrex-API-Copilot) | **Developer support product**: RAG over API docs + live MCP tools in Telegram — scope guards, semantic cache, listing watcher. |
-
-**Also:** [`mudrex-api-trading-SDK-registry`](https://github.com/DecentralizedJM/mudrex-api-trading-SDK-registry) (multi-language index) · [`mudrex-trade-ideas-html-cards`](https://github.com/DecentralizedJM/mudrex-trade-ideas-html-cards) (advisory embeds) · [`mudrex-futures-API-papertrading-py-sdk`](https://github.com/DecentralizedJM/mudrex-futures-API-papertrading-py-sdk) (paper + OpenAPI for AI demos).
-
-<details>
-<summary><strong>Platform map</strong> (one diagram)</summary>
-
-```mermaid
-flowchart TB
-  subgraph products [Products]
-    RA[RexAlgo\nmarketplace · copy · TIA]
-    COP[API Copilot\nintegrator support]
-  end
-  subgraph platform [Platform you built]
-    SDK[Python SDK + MCP]
-    WS[WebSocket proxy]
-    LAND[MCP landing]
-  end
-  subgraph external [External]
-    MUD[Mudrex Futures REST]
-    BY[Bybit market data]
-    AI[Claude / Cursor / TV bots]
-  end
-  AI --> SDK
-  AI --> LAND
-  COP --> SDK
-  RA --> MUD
-  RA --> SDK
-  WS --> BY
-  SDK --> MUD
-  products --> platform
-```
-
-</details>
+- 🏦 **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products (not slide-deck PM)
+- 🚀 Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
+- 🔌 Shipped **Python SDK + MCP**, **WebSocket proxy**, and an **API copilot** for integrators & devs
+- 📈 Path: BD → CS → PMM → **Product** → crypto fintech & AI tooling
+- ✍️ Sometimes I write on [Medium](https://decentralizedjm.medium.com)
 
 ---
 
-## How I think about product
+## 🛠️ Tech Stack
 
-**Thin wedge over platform theater.** I would rather ship a Python SDK one integrator uses daily than announce five languages and a “multi-agent roadmap” with no adoption. Mudrex MCP followed that rule: tools that map to real REST endpoints, then a landing page that shows the exact Claude config.
-
-**Reliability is a product feature.** On the WebSocket proxy, the product decision was one upstream connection and Redis ref-counting so we do not open a Bybit socket per client. On RexAlgo, Mudrex rate limits are modeled as parallel second/minute/hour windows per route family — because the API enforces them that way, not as “2 req/s × 60.”
-
-**Trust beats cleverness in trading.** Copy trading gets HMAC-signed webhooks, short replay windows, and idempotency keys — not because security sells, but because one bad mirror fill destroys master credibility. I document open ledger and rollup decisions in audit write-ups instead of hiding ambiguity in dashboards.
-
-**AI is a interface, not a personality.** The API copilot uses Gemini with off-topic guards and semantic cache for cost — it should answer like a senior support engineer, not a general chatbot. MCP is how external agents get the same bounded tool surface, not a substitute for API design.
-
----
-
-## Background
-
-Business Development → Customer Success → Product Marketing → **Product Management** → platform & trading products at a regulated crypto fintech.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
-## Writing & contact
+## 🚀 Current Projects
 
-- **Essays:** [decentralizedjm.medium.com](https://decentralizedjm.medium.com)
-- **X:** [@Decentralizedjm](https://twitter.com/Decentralizedjm)
-- **Email:** mohandasjithin@gmail.com
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦁 RexAlgo
+
+**Algo marketplace + copy trading**
+
+Masters publish strategies → subscribers mirror **signed webhooks** into their own Mudrex accounts. Trade ideas (TIA), TradingView alerts, encrypted API keys, CI + load tests.
+
+`React` `Next.js` `PostgreSQL` `Redis` `Docker` `MCP`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/DecentralizedJM/RexAlgo)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Mudrex Futures Platform
+
+**API · WebSocket · MCP · Copilot**
+
+SDK + MCP for Claude/Cursor · WS proxy (Bybit → Mudrex streams) · MCP landing · Telegram API copilot with RAG.
+
+`Python` `FastMCP` `asyncio` `Railway` `Cloudflare`
+
+[![SDK](https://img.shields.io/badge/Python_SDK-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/DecentralizedJM/mudrex-api-trading-python-sdk)
+[![WS](https://img.shields.io/badge/WS_Proxy-010101?style=flat-square&logo=socketdotio)](https://github.com/DecentralizedJM/mudrex-proxy-server-websocket)
+[![Copilot](https://img.shields.io/badge/API_Copilot-26A5E4?style=flat-square&logo=telegram)](https://github.com/DecentralizedJM/Mudrex-API-Copilot)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🤖 MCP & AI DevTools
+
+**Agents that can actually trade (safely)**
+
+MCP server on the Python SDK · prod landing with API keys · paper-trading OpenAPI for demos.
+
+`MCP` `OpenAPI` `Gemini` `RAG`
+
+[![MCP Landing](https://img.shields.io/badge/MCP_Landing-000000?style=flat-square&logo=vercel)](https://github.com/DecentralizedJM/mudrex-mcp-prod-landing-page)
+
+</td>
+<td valign="top">
+
+### 📊 Currently Focused On
+
+**What I'm leveling up this quarter**
+
+- 🧩 **Ledger & volume truth** on RexAlgo (audit → ship)
+- 📡 **WebSocket scale** — fan-out, rate limits, idle cleanup
+- 🤝 **Integrator UX** — fewer support pings via copilot + docs
+- 🎯 **Advisory surfaces** — trade-idea cards & TIA flows
+
+`Product` `Fintech` `System Design`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## For reviewers
+## 📊 GitHub Stats
 
-Deeper inventory, skill citations, PM artifact scaffolds, and README drafts for individual repos live in [`portfolio-rewrite/`](portfolio-rewrite/) on this branch — written for PM roles at API-first and AI-native companies. Metrics in those files use `TODO[JM]` where only I can supply real numbers.
+<div align="center">
 
-If you are hiring for **platform PM**, **developer tools**, or **fintech + AI**, start with **RexAlgo** and the **Python SDK + MCP** pair, then ask me about one decision I regret — I have several documented.
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DecentralizedJM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecentralizedJM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DecentralizedJM&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Bengaluru, India** · [X @Decentralizedjm](https://twitter.com/Decentralizedjm) · [Medium](https://decentralizedjm.medium.com) · mohandasjithin@gmail.com
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DecentralizedJM&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
