@@ -47,9 +47,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🦁 RexAlgo
+<img src="assets/rexalgo-mark.png" width="44" alt="RexAlgo" align="left" />
+
+### RexAlgo
 
 **Algo marketplace + copy trading**
+
+<br clear="left"/>
 
 Masters publish strategies → subscribers mirror **signed webhooks** into their own Mudrex accounts. Trade ideas (TIA), TradingView alerts, encrypted API keys, CI + load tests.
 
