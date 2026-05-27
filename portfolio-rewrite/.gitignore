@@ -1,0 +1,2 @@
+# Local shallow clones for analysis only (1GB+). Never commit.
+.repo-scan/
