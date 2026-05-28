@@ -3,7 +3,9 @@
 ### Product Manager @ Mudrex · Builder-PM · API · Algo · MCP
 
 <div align="center">
-  <img src="assets/hero-typing.svg" width="620" height="52" alt="Shipping RexAlgo · Futures API · WebSocket · MCP" />
+  <img src="assets/rexalgo-hero-logo.svg" width="44" height="44" alt="" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Shipping+RexAlgo;Futures+API+%C2%B7+WebSocket+%C2%B7+MCP;Algo+marketplace+%26+copy+trading;Turning+APIs+into+products+people+use" alt="Typing animation" />
 </div>
 
 ---
@@ -66,7 +68,7 @@ Masters publish strategies → subscribers mirror **signed webhooks** into their
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Mudrex Futures Platform
+### ⚡ Mudrex API Trading
 
 **API · WebSocket · MCP · Copilot**
 
