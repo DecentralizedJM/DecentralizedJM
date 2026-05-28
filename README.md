@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-- 🏦 **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products (not slide-deck PM)
+- 🏦 **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products
 - Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
 - 🔌 Shipped **Python SDK + MCP**, **WebSocket proxy**, and an **API copilot** for integrators & devs
 - 📈 Path: BD → CS → PMM → **Product** → crypto fintech & AI tooling
