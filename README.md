@@ -1,4 +1,4 @@
-# Hey there! I'm JM 👋
+# Hey there! I'm JM
 
 ### Product Manager @ Mudrex · Builder-PM · API · Algo · MCP
 
@@ -10,17 +10,17 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🏦 **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products
+- **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products
 - Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
-- 🔌 Shipped **Python SDK + MCP**, **WebSocket proxy**, and an **API copilot** for integrators & devs
-- 📈 Path: BD → CS → PMM → **Product** → crypto fintech & AI tooling
-- ✍️ Sometimes I write on [Medium](https://decentralizedjm.medium.com)
+- Shipped **Python SDK + MCP**, **WebSocket proxy**, and an **API copilot** for integrators & devs
+- Path: BD → CS → PMM → **Product** → crypto fintech & AI tooling
+- Sometimes I write on [Medium](https://decentralizedjm.medium.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## ⭐ Current Projects
+## Current Projects
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ SDK + MCP for Claude/Cursor · WS proxy (Bybit → Mudrex streams) · MCP landin
 <tr>
 <td valign="top">
 
-### 🤖 MCP & AI DevTools
+### MCP & AI DevTools
 
 **Agents that can actually trade (safely)**
 
@@ -97,14 +97,14 @@ MCP server on the Python SDK · prod landing with API keys · paper-trading Open
 </td>
 <td valign="top">
 
-### 📊 Currently Focused On
+### Currently Focused On
 
 **What I'm leveling up this quarter**
 
-- 🧩 **Ledger & volume truth** on RexAlgo (audit → ship)
-- 📡 **WebSocket scale** — fan-out, rate limits, idle cleanup
-- 🤝 **Integrator UX** — fewer support pings via copilot + docs
-- 🎯 **Advisory surfaces** — trade-idea cards & TIA flows
+- **Ledger & volume truth** on RexAlgo (audit → ship)
+- **WebSocket scale** — fan-out, rate limits, idle cleanup
+- **Integrator UX** — fewer support pings via copilot + docs
+- **Advisory surfaces** — trade-idea cards & TIA flows
 
 `Product` `Fintech` `System Design`
 
@@ -114,7 +114,7 @@ MCP server on the Python SDK · prod landing with API keys · paper-trading Open
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.shion.dev/api?username=DecentralizedJM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
