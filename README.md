@@ -2,14 +2,18 @@
 
 ### Product Manager @ Mudrex · Builder-PM · API · Algo · MCP
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Shipping+RexAlgo+%F0%9F%9A%80;Futures+API+%2B+WebSocket+%2B+MCP;Algo+marketplace+%26+copy+trading;Turning+APIs+into+products+people+use)](https://git.io/typing-svg)
+<div align="center">
+  <img src="assets/rexalgo-mark.png" width="64" alt="RexAlgo" />
+  <br /><br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Shipping+RexAlgo;Futures+API+%2B+WebSocket+%2B+MCP;Algo+marketplace+%26+copy+trading;Turning+APIs+into+products+people+use" alt="Typing animation" />
+</div>
 
 ---
 
 ## 🎯 About Me
 
 - 🏦 **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products (not slide-deck PM)
-- 🚀 Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
+- <img src="assets/rexalgo-mark.png" width="18" alt="RexAlgo" valign="middle"/> Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
 - 🔌 Shipped **Python SDK + MCP**, **WebSocket proxy**, and an **API copilot** for integrators & devs
 - 📈 Path: BD → CS → PMM → **Product** → crypto fintech & AI tooling
 - ✍️ Sometimes I write on [Medium](https://decentralizedjm.medium.com)
@@ -18,30 +22,30 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-1F6FEB?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+</p>
 
 ---
 
-## 🚀 Current Projects
+## ⭐ Current Projects
 
 <table>
 <tr>
@@ -114,12 +118,10 @@ MCP server on the Python SDK · prod landing with API keys · paper-trading Open
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DecentralizedJM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecentralizedJM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DecentralizedJM&theme=tokyonight&hide_border=true"/>
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DecentralizedJM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecentralizedJM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
+  <br/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=DecentralizedJM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </div>
 
 ---
