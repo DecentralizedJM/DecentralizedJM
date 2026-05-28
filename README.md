@@ -65,7 +65,6 @@ Masters publish strategies → subscribers mirror **signed webhooks** into their
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/MCP-1F6FEB?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/DecentralizedJM/RexAlgo)
 
