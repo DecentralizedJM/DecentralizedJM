@@ -118,8 +118,8 @@ MCP server on the Python SDK · prod landing with API keys · paper-trading Open
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DecentralizedJM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecentralizedJM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
+  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=DecentralizedJM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DecentralizedJM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
   <br/>
   <img height="165em" src="https://streak-stats.demolab.com/?user=DecentralizedJM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </div>
