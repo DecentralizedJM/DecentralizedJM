@@ -3,9 +3,7 @@
 ### Product Manager @ Mudrex · Builder-PM · API · Algo · MCP
 
 <div align="center">
-  <img src="assets/rexalgo-mark.png" width="64" alt="RexAlgo" />
-  <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Shipping+RexAlgo;Futures+API+%2B+WebSocket+%2B+MCP;Algo+marketplace+%26+copy+trading;Turning+APIs+into+products+people+use" alt="Typing animation" />
+  <img src="assets/hero-typing.svg" width="620" height="52" alt="Shipping RexAlgo · Futures API · WebSocket · MCP" />
 </div>
 
 ---
@@ -13,7 +11,7 @@
 ## 🎯 About Me
 
 - 🏦 **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products (not slide-deck PM)
-- <img src="assets/rexalgo-mark.png" width="18" alt="RexAlgo" valign="middle"/> Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
+- Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
 - 🔌 Shipped **Python SDK + MCP**, **WebSocket proxy**, and an **API copilot** for integrators & devs
 - 📈 Path: BD → CS → PMM → **Product** → crypto fintech & AI tooling
 - ✍️ Sometimes I write on [Medium](https://decentralizedjm.medium.com)
