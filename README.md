@@ -3,7 +3,7 @@
 ### Product Manager @ Mudrex · Builder-PM · API · Algo · MCP
 
 <div align="center">
-  <img src="assets/rexalgo-hero-logo.svg" width="44" height="44" alt="" />
+  <a href="https://rexalgo.xyz"><img src="assets/rexalgo-hero-logo.svg" width="44" height="44" alt="" /></a>
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=50&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1150&lines=Shipping+RexAlgo;Futures+API+%C2%B7+WebSocket+%C2%B7+MCP;Algo+marketplace+%26+copy+trading;Turning+APIs+into+products+people+use" alt="Typing animation" />
 </div>
@@ -13,7 +13,7 @@
 ## About Me
 
 - **PM at Mudrex** — Futures API, real-time streams, MCP, and trading products
-- Building **[RexAlgo](https://github.com/DecentralizedJM/RexAlgo)** — algo marketplace, copy trading & advisory on Mudrex Futures
+- Building **[RexAlgo](https://rexalgo.xyz)** — algo marketplace, copy trading & advisory on Mudrex Futures
 - Shipped **Python SDK + MCP**, **WebSocket proxy**, and an **API copilot** for integrators & devs
 - Path: BD → CS → PMM → **Product** → crypto fintech & AI tooling
 - Sometimes I write on [Medium](https://decentralizedjm.medium.com)
@@ -52,7 +52,7 @@
 
 <img src="assets/rexalgo-mark.png" width="44" alt="RexAlgo" align="left" />
 
-### RexAlgo
+### [RexAlgo](https://rexalgo.xyz)
 
 **Algo marketplace + copy trading**
 
@@ -66,7 +66,7 @@ Masters publish strategies → subscribers mirror **signed webhooks** into their
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/DecentralizedJM/RexAlgo)
+[![Live App](https://img.shields.io/badge/Live_App-rexalgo.xyz-007A73?style=flat-square)](https://rexalgo.xyz)
 
 </td>
 <td width="50%" valign="top">
